@@ -1,0 +1,15 @@
+ul.products li {
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+    *display: inline;
+    *zoom: 1;
+}
+ img {
+ 	height: 20px;
+  width: 20%;
+ }
+ .fieldset {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
